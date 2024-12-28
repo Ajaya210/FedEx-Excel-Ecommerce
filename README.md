@@ -1,4 +1,4 @@
-# Ecommerce Analytics Project  
+# FedEx Ecommerce  Supply chain Analytics Project  
 
 ### *Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints*  
 This project analyzes two datasets in Excel to explore the dynamics of supply chain efficiency and user engagement in an e-commerce context. The insights gained from this analysis can inform strategic decision-making in inventory management, marketing, and customer engagement.  
