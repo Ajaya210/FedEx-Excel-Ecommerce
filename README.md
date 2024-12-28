@@ -1,18 +1,20 @@
 **Ecommerce Analytics Project**
 **Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints**
+
+
 This project analyzes two datasets in Excel to explore the dynamics of supply chain efficiency and user engagement in an e-commerce context. The insights gained from this analysis can inform strategic decision-making in inventory management, marketing, and customer engagement.
 
 Datasets
 Supply Chain Dataset (supplychaindataset)
 This dataset is designed to analyze various aspects of the supply chain, including:
 
-Shipping efficiency
+.Shipping efficiency
 
-Customer demographics
+.Customer demographics
 
-Sales performance
+.Sales performance
 
-Product popularity
+.Product popularity
 
 Tokenized Access Log Dataset (tokenizedaccesslog)
 This dataset provides insights into user behavior on the website, focusing on:
