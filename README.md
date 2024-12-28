@@ -1,4 +1,4 @@
-**Ecommerce Analytics Project**
+#Ecommerce Analytics Project#
 **Streamline & Spotlight: Unraveling the Narrative of Supply Chain Excellence and Digital Footprints**
 
 
